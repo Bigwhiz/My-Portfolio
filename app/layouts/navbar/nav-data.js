@@ -29,7 +29,7 @@ export const socialLinks = [
   },
   {
     label: 'Email',
-    url: 'mailto:wisdomwhizi@gmail.com', // ← update this to your actual Gmail
+    url: 'mailto:mailwisdomosas@gmail.com', // ← update this to your actual Gmail
     icon: 'mail',
   },
 ];
