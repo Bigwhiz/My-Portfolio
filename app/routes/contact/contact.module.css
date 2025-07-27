@@ -312,3 +312,32 @@
     animation: fade-in var(--durationL) ease var(--durationXL) forwards;
   }
 }
+
+.socialLinks {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spaceL);
+  margin-bottom: var(--space2XL);
+}
+
+.socialItem {
+  display: flex;
+  align-items: center;
+  font-size: 1rem;
+  gap: var(--spaceS);
+  color: var(--text2);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.socialItem:hover {
+  color: var(--text1);
+}
+
+.returnButton {
+  margin-top: var(--spaceXL);
+}
+
+.homeLink {
+  text-align: center;
+}
