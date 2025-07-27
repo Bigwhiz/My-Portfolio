@@ -1,11 +1,12 @@
 node_modules
-
 /.cache
-/build
 .env
-
 .wrangler
 .dev.vars
-
+/build
 public/draco
 storybook-static
+.DS_Store
+Thumbs.db
+.vscode
+
