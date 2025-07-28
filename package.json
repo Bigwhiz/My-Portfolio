@@ -7,8 +7,8 @@
   "sideEffects": false,
   "type": "module",
   "scripts": {
-    "build": "remix build && if not exist functions mkdir functions && copy build\\server\\index.js functions\\[[path]].js", 
-    "dev": "node ./scripts/dev.cjs && remix vite:dev",
+    "build": "remix build",
+    "postbuild": "if not exist functions mkdir functions && copy build\\server\\index.js functions\\[[path]].js",
     "start": "wrangler pages dev ./build/client",
     "postinstall": "node ./scripts/draco.cjs",
     "deploy": "npm run build && wrangler pages deploy ./build/client --project-name portfolio",

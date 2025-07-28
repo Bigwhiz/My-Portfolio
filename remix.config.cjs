@@ -5,6 +5,5 @@ module.exports = {
   publicPath: "/build/",
   serverBuildPath: "build/server/index.js",
   serverModuleFormat: "esm",
-  serverPlatform: "neutral",
-  esbuildConfig: require("./esbuild.config.cjs"),
+  serverPlatform: "neutral"
 };
