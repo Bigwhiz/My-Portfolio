@@ -1,0 +1,1 @@
+import{g as t}from"/assets/_shared/chunk-F4ODTSJS.js";import{a,b as e}from"/assets/_shared/chunk-ZSCARA4Z.js";import{c as o}from"/assets/_shared/chunk-F3TRQT5X.js";var s=o(a(),1);var r={section:"_0LpwB"};var f=o(e(),1),l=(0,s.forwardRef)(({as:m="div",children:p,className:i,...c},n)=>(0,f.jsx)(m,{className:t(r.section,i),ref:n,...c,children:p}));export{l as a};

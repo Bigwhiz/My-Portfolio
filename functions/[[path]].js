@@ -867,49 +867,49 @@ var init_carousel2 = __esm({
 // app/assets/volkihar-cube-nx.jpg
 var volkihar_cube_nx_default, init_volkihar_cube_nx = __esm({
   "app/assets/volkihar-cube-nx.jpg"() {
-    volkihar_cube_nx_default = "/build/_assets/volkihar-cube-nx-MFIMTLYF.jpg";
+    volkihar_cube_nx_default = "/assets/_assets/volkihar-cube-nx-MFIMTLYF.jpg";
   }
 });
 
 // app/assets/volkihar-cube-ny.jpg
 var volkihar_cube_ny_default, init_volkihar_cube_ny = __esm({
   "app/assets/volkihar-cube-ny.jpg"() {
-    volkihar_cube_ny_default = "/build/_assets/volkihar-cube-ny-6LBFMIGT.jpg";
+    volkihar_cube_ny_default = "/assets/_assets/volkihar-cube-ny-6LBFMIGT.jpg";
   }
 });
 
 // app/assets/volkihar-cube-nz.jpg
 var volkihar_cube_nz_default, init_volkihar_cube_nz = __esm({
   "app/assets/volkihar-cube-nz.jpg"() {
-    volkihar_cube_nz_default = "/build/_assets/volkihar-cube-nz-BFG5BMZH.jpg";
+    volkihar_cube_nz_default = "/assets/_assets/volkihar-cube-nz-BFG5BMZH.jpg";
   }
 });
 
 // app/assets/volkihar-cube-px.jpg
 var volkihar_cube_px_default, init_volkihar_cube_px = __esm({
   "app/assets/volkihar-cube-px.jpg"() {
-    volkihar_cube_px_default = "/build/_assets/volkihar-cube-px-ZMAH6DUL.jpg";
+    volkihar_cube_px_default = "/assets/_assets/volkihar-cube-px-ZMAH6DUL.jpg";
   }
 });
 
 // app/assets/volkihar-cube-py.jpg
 var volkihar_cube_py_default, init_volkihar_cube_py = __esm({
   "app/assets/volkihar-cube-py.jpg"() {
-    volkihar_cube_py_default = "/build/_assets/volkihar-cube-py-I3IS6N2S.jpg";
+    volkihar_cube_py_default = "/assets/_assets/volkihar-cube-py-I3IS6N2S.jpg";
   }
 });
 
 // app/assets/volkihar-cube-pz.jpg
 var volkihar_cube_pz_default, init_volkihar_cube_pz = __esm({
   "app/assets/volkihar-cube-pz.jpg"() {
-    volkihar_cube_pz_default = "/build/_assets/volkihar-cube-pz-47DP52Y5.jpg";
+    volkihar_cube_pz_default = "/assets/_assets/volkihar-cube-pz-47DP52Y5.jpg";
   }
 });
 
 // app/assets/volkihar-knight.glb
 var volkihar_knight_default, init_volkihar_knight = __esm({
   "app/assets/volkihar-knight.glb"() {
-    volkihar_knight_default = "/build/_assets/volkihar-knight-2YXUC67A.glb";
+    volkihar_knight_default = "/assets/_assets/volkihar-knight-2YXUC67A.glb";
   }
 });
 
@@ -1080,56 +1080,56 @@ var rotationSpringConfig, Armor, init_armor = __esm({
 // app/assets/earth.glb
 var earth_default, init_earth = __esm({
   "app/assets/earth.glb"() {
-    earth_default = "/build/_assets/earth-KECVD2W3.glb";
+    earth_default = "/assets/_assets/earth-KECVD2W3.glb";
   }
 });
 
 // app/assets/milkyway-nx.hdr
 var milkyway_nx_default, init_milkyway_nx = __esm({
   "app/assets/milkyway-nx.hdr"() {
-    milkyway_nx_default = "/build/_assets/milkyway-nx-B2LSWIPY.hdr";
+    milkyway_nx_default = "/assets/_assets/milkyway-nx-B2LSWIPY.hdr";
   }
 });
 
 // app/assets/milkyway-ny.hdr
 var milkyway_ny_default, init_milkyway_ny = __esm({
   "app/assets/milkyway-ny.hdr"() {
-    milkyway_ny_default = "/build/_assets/milkyway-ny-ABSFT437.hdr";
+    milkyway_ny_default = "/assets/_assets/milkyway-ny-ABSFT437.hdr";
   }
 });
 
 // app/assets/milkyway-nz.hdr
 var milkyway_nz_default, init_milkyway_nz = __esm({
   "app/assets/milkyway-nz.hdr"() {
-    milkyway_nz_default = "/build/_assets/milkyway-nz-L425LJDA.hdr";
+    milkyway_nz_default = "/assets/_assets/milkyway-nz-L425LJDA.hdr";
   }
 });
 
 // app/assets/milkyway-px.hdr
 var milkyway_px_default, init_milkyway_px = __esm({
   "app/assets/milkyway-px.hdr"() {
-    milkyway_px_default = "/build/_assets/milkyway-px-FERHKW3X.hdr";
+    milkyway_px_default = "/assets/_assets/milkyway-px-FERHKW3X.hdr";
   }
 });
 
 // app/assets/milkyway-py.hdr
 var milkyway_py_default, init_milkyway_py = __esm({
   "app/assets/milkyway-py.hdr"() {
-    milkyway_py_default = "/build/_assets/milkyway-py-PLXMGDNB.hdr";
+    milkyway_py_default = "/assets/_assets/milkyway-py-PLXMGDNB.hdr";
   }
 });
 
 // app/assets/milkyway-pz.hdr
 var milkyway_pz_default, init_milkyway_pz = __esm({
   "app/assets/milkyway-pz.hdr"() {
-    milkyway_pz_default = "/build/_assets/milkyway-pz-B33EWIJV.hdr";
+    milkyway_pz_default = "/assets/_assets/milkyway-pz-B33EWIJV.hdr";
   }
 });
 
 // app/assets/milkyway.jpg
 var milkyway_default, init_milkyway = __esm({
   "app/assets/milkyway.jpg"() {
-    milkyway_default = "/build/_assets/milkyway-37ER5DRR.jpg";
+    milkyway_default = "/assets/_assets/milkyway-37ER5DRR.jpg";
   }
 });
 
@@ -1526,14 +1526,14 @@ var nullTarget, interpolatePosition, positionToString, getPositionValues, isEqua
 // app/assets/iphone-11.glb
 var iphone_11_default, init_iphone_11 = __esm({
   "app/assets/iphone-11.glb"() {
-    iphone_11_default = "/build/_assets/iphone-11-S4EFIVYB.glb";
+    iphone_11_default = "/assets/_assets/iphone-11-S4EFIVYB.glb";
   }
 });
 
 // app/assets/macbook-pro.glb
 var macbook_pro_default, init_macbook_pro = __esm({
   "app/assets/macbook-pro.glb"() {
-    macbook_pro_default = "/build/_assets/macbook-pro-C6DU7EB5.glb";
+    macbook_pro_default = "/assets/_assets/macbook-pro-C6DU7EB5.glb";
   }
 });
 
@@ -1883,25 +1883,25 @@ import {
 import { createCookieSessionStorage, json } from "@remix-run/cloudflare";
 
 // app/assets/fonts/gotham-bold-italic.woff2
-var gotham_bold_italic_default = "/build/_assets/gotham-bold-italic-OLGVLVDA.woff2";
+var gotham_bold_italic_default = "/assets/_assets/gotham-bold-italic-OLGVLVDA.woff2";
 
 // app/assets/fonts/gotham-bold.woff2
-var gotham_bold_default = "/build/_assets/gotham-bold-YCA2Z2KD.woff2";
+var gotham_bold_default = "/assets/_assets/gotham-bold-YCA2Z2KD.woff2";
 
 // app/assets/fonts/gotham-book-italic.woff2
-var gotham_book_italic_default = "/build/_assets/gotham-book-italic-GDMS7P5O.woff2";
+var gotham_book_italic_default = "/assets/_assets/gotham-book-italic-GDMS7P5O.woff2";
 
 // app/assets/fonts/gotham-book.woff2
-var gotham_book_default = "/build/_assets/gotham-book-6DKF6M3J.woff2";
+var gotham_book_default = "/assets/_assets/gotham-book-6DKF6M3J.woff2";
 
 // app/assets/fonts/gotham-medium-italic.woff2
-var gotham_medium_italic_default = "/build/_assets/gotham-medium-italic-7A76FGFF.woff2";
+var gotham_medium_italic_default = "/assets/_assets/gotham-medium-italic-7A76FGFF.woff2";
 
 // app/assets/fonts/gotham-medium.woff2
-var gotham_medium_default = "/build/_assets/gotham-medium-ZMMBQFZI.woff2";
+var gotham_medium_default = "/assets/_assets/gotham-medium-ZMMBQFZI.woff2";
 
 // app/assets/fonts/ipa-gothic.woff2
-var ipa_gothic_default = "/build/_assets/ipa-gothic-UH26V325.woff2";
+var ipa_gothic_default = "/assets/_assets/ipa-gothic-UH26V325.woff2";
 
 // app/components/theme-provider/theme-provider.jsx
 init_style();
@@ -2050,7 +2050,7 @@ var icon_module_default = { icon: "r1Pyw" };
 import { forwardRef } from "react";
 
 // app/components/icon/icons.svg
-var icons_default = "/build/_assets/icons-VRQHNTZT.svg";
+var icons_default = "/assets/_assets/icons-VRQHNTZT.svg";
 
 // app/components/icon/icon.jsx
 import { jsx as jsx3 } from "react/jsx-runtime";
@@ -3342,70 +3342,70 @@ __export(route_exports, {
 });
 
 // app/assets/volkihar-background-large.jpg
-var volkihar_background_large_default = "/build/_assets/volkihar-background-large-GDDXT7YD.jpg";
+var volkihar_background_large_default = "/assets/_assets/volkihar-background-large-GDDXT7YD.jpg";
 
 // app/assets/volkihar-background-placeholder.jpg
-var volkihar_background_placeholder_default = "/build/_assets/volkihar-background-placeholder-MQSZJNAM.jpg";
+var volkihar_background_placeholder_default = "/assets/_assets/volkihar-background-placeholder-MQSZJNAM.jpg";
 
 // app/assets/volkihar-background.jpg
-var volkihar_background_default = "/build/_assets/volkihar-background-UXA75NF4.jpg";
+var volkihar_background_default = "/assets/_assets/volkihar-background-UXA75NF4.jpg";
 
 // app/assets/volkihar-banner-large.jpg
-var volkihar_banner_large_default = "/build/_assets/volkihar-banner-large-MYFQJ53C.jpg";
+var volkihar_banner_large_default = "/assets/_assets/volkihar-banner-large-MYFQJ53C.jpg";
 
 // app/assets/volkihar-banner-placeholder.jpg
-var volkihar_banner_placeholder_default = "/build/_assets/volkihar-banner-placeholder-OQFJDMY5.jpg";
+var volkihar_banner_placeholder_default = "/assets/_assets/volkihar-banner-placeholder-OQFJDMY5.jpg";
 
 // app/assets/volkihar-banner.jpg
-var volkihar_banner_default = "/build/_assets/volkihar-banner-S73T2FVW.jpg";
+var volkihar_banner_default = "/assets/_assets/volkihar-banner-S73T2FVW.jpg";
 
 // app/assets/volkihar-book-large.png
-var volkihar_book_large_default = "/build/_assets/volkihar-book-large-UC6SAWZL.png";
+var volkihar_book_large_default = "/assets/_assets/volkihar-book-large-UC6SAWZL.png";
 
 // app/assets/volkihar-book-placeholder.png
-var volkihar_book_placeholder_default = "/build/_assets/volkihar-book-placeholder-R4D2MEPG.png";
+var volkihar_book_placeholder_default = "/assets/_assets/volkihar-book-placeholder-R4D2MEPG.png";
 
 // app/assets/volkihar-book.png
-var volkihar_book_default = "/build/_assets/volkihar-book-7ABNINLY.png";
+var volkihar_book_default = "/assets/_assets/volkihar-book-7ABNINLY.png";
 
 // app/assets/volkihar-enderal-large.jpg
-var volkihar_enderal_large_default = "/build/_assets/volkihar-enderal-large-2X5T7L7L.jpg";
+var volkihar_enderal_large_default = "/assets/_assets/volkihar-enderal-large-2X5T7L7L.jpg";
 
 // app/assets/volkihar-enderal-logo-large.png
-var volkihar_enderal_logo_large_default = "/build/_assets/volkihar-enderal-logo-large-USFSZCOR.png";
+var volkihar_enderal_logo_large_default = "/assets/_assets/volkihar-enderal-logo-large-USFSZCOR.png";
 
 // app/assets/volkihar-enderal-logo-placeholder.png
-var volkihar_enderal_logo_placeholder_default = "/build/_assets/volkihar-enderal-logo-placeholder-TPP6TWWU.png";
+var volkihar_enderal_logo_placeholder_default = "/assets/_assets/volkihar-enderal-logo-placeholder-TPP6TWWU.png";
 
 // app/assets/volkihar-enderal-logo.png
-var volkihar_enderal_logo_default = "/build/_assets/volkihar-enderal-logo-26AM7KQJ.png";
+var volkihar_enderal_logo_default = "/assets/_assets/volkihar-enderal-logo-26AM7KQJ.png";
 
 // app/assets/volkihar-enderal-placeholder.jpg
-var volkihar_enderal_placeholder_default = "/build/_assets/volkihar-enderal-placeholder-SE5RHKUF.jpg";
+var volkihar_enderal_placeholder_default = "/assets/_assets/volkihar-enderal-placeholder-SE5RHKUF.jpg";
 
 // app/assets/volkihar-enderal.jpg
-var volkihar_enderal_default = "/build/_assets/volkihar-enderal-OWLHMZXF.jpg";
+var volkihar_enderal_default = "/assets/_assets/volkihar-enderal-OWLHMZXF.jpg";
 
 // app/assets/volkihar-slide-1-large.jpg
-var volkihar_slide_1_large_default = "/build/_assets/volkihar-slide-1-large-S2D4TOWV.jpg";
+var volkihar_slide_1_large_default = "/assets/_assets/volkihar-slide-1-large-S2D4TOWV.jpg";
 
 // app/assets/volkihar-slide-1.jpg
-var volkihar_slide_1_default = "/build/_assets/volkihar-slide-1-EDWX53L7.jpg";
+var volkihar_slide_1_default = "/assets/_assets/volkihar-slide-1-EDWX53L7.jpg";
 
 // app/assets/volkihar-slide-2-large.jpg
-var volkihar_slide_2_large_default = "/build/_assets/volkihar-slide-2-large-DLYGTYGF.jpg";
+var volkihar_slide_2_large_default = "/assets/_assets/volkihar-slide-2-large-DLYGTYGF.jpg";
 
 // app/assets/volkihar-slide-2.jpg
-var volkihar_slide_2_default = "/build/_assets/volkihar-slide-2-YNQ4KBIP.jpg";
+var volkihar_slide_2_default = "/assets/_assets/volkihar-slide-2-YNQ4KBIP.jpg";
 
 // app/assets/volkihar-slide-3-large.jpg
-var volkihar_slide_3_large_default = "/build/_assets/volkihar-slide-3-large-S5EYXEVD.jpg";
+var volkihar_slide_3_large_default = "/assets/_assets/volkihar-slide-3-large-S5EYXEVD.jpg";
 
 // app/assets/volkihar-slide-3.jpg
-var volkihar_slide_3_default = "/build/_assets/volkihar-slide-3-KFJGJIO2.jpg";
+var volkihar_slide_3_default = "/assets/_assets/volkihar-slide-3-KFJGJIO2.jpg";
 
 // app/assets/volkihar-slide-placeholder.jpg
-var volkihar_slide_placeholder_default = "/build/_assets/volkihar-slide-placeholder-K6JBVRXC.jpg";
+var volkihar_slide_placeholder_default = "/assets/_assets/volkihar-slide-placeholder-K6JBVRXC.jpg";
 
 // app/components/link/link.jsx
 init_style();
@@ -4002,139 +4002,139 @@ __export(route_exports2, {
 });
 
 // app/assets/spr-background-large.jpg
-var spr_background_large_default = "/build/_assets/spr-background-large-IFPZ2AZ6.jpg";
+var spr_background_large_default = "/assets/_assets/spr-background-large-IFPZ2AZ6.jpg";
 
 // app/assets/spr-background-placeholder.jpg
-var spr_background_placeholder_default = "/build/_assets/spr-background-placeholder-62USQQ5L.jpg";
+var spr_background_placeholder_default = "/assets/_assets/spr-background-placeholder-62USQQ5L.jpg";
 
 // app/assets/spr-background-volcanism-large.jpg
-var spr_background_volcanism_large_default = "/build/_assets/spr-background-volcanism-large-NYHEAOG4.jpg";
+var spr_background_volcanism_large_default = "/assets/_assets/spr-background-volcanism-large-NYHEAOG4.jpg";
 
 // app/assets/spr-background-volcanism-placeholder.jpg
-var spr_background_volcanism_placeholder_default = "/build/_assets/spr-background-volcanism-placeholder-IFLTDHXR.jpg";
+var spr_background_volcanism_placeholder_default = "/assets/_assets/spr-background-volcanism-placeholder-IFLTDHXR.jpg";
 
 // app/assets/spr-background-volcanism.jpg
-var spr_background_volcanism_default = "/build/_assets/spr-background-volcanism-ZS4OKJYM.jpg";
+var spr_background_volcanism_default = "/assets/_assets/spr-background-volcanism-ZS4OKJYM.jpg";
 
 // app/assets/spr-background.jpg
-var spr_background_default = "/build/_assets/spr-background-Y7TR2J6L.jpg";
+var spr_background_default = "/assets/_assets/spr-background-Y7TR2J6L.jpg";
 
 // app/assets/spr-components-dark-large.png
-var spr_components_dark_large_default = "/build/_assets/spr-components-dark-large-535BSUQP.png";
+var spr_components_dark_large_default = "/assets/_assets/spr-components-dark-large-535BSUQP.png";
 
 // app/assets/spr-components-dark-placeholder.png
-var spr_components_dark_placeholder_default = "/build/_assets/spr-components-dark-placeholder-C4T3OU6P.png";
+var spr_components_dark_placeholder_default = "/assets/_assets/spr-components-dark-placeholder-C4T3OU6P.png";
 
 // app/assets/spr-components-dark.png
-var spr_components_dark_default = "/build/_assets/spr-components-dark-2E2X64CF.png";
+var spr_components_dark_default = "/assets/_assets/spr-components-dark-2E2X64CF.png";
 
 // app/assets/spr-components-light-large.png
-var spr_components_light_large_default = "/build/_assets/spr-components-light-large-LZESPBX6.png";
+var spr_components_light_large_default = "/assets/_assets/spr-components-light-large-LZESPBX6.png";
 
 // app/assets/spr-components-light-placeholder.png
-var spr_components_light_placeholder_default = "/build/_assets/spr-components-light-placeholder-QA5TPKLR.png";
+var spr_components_light_placeholder_default = "/assets/_assets/spr-components-light-placeholder-QA5TPKLR.png";
 
 // app/assets/spr-components-light.png
-var spr_components_light_default = "/build/_assets/spr-components-light-5BH5BULN.png";
+var spr_components_light_default = "/assets/_assets/spr-components-light-5BH5BULN.png";
 
 // app/assets/spr-design-system-dark-large.png
-var spr_design_system_dark_large_default = "/build/_assets/spr-design-system-dark-large-D2JRFU23.png";
+var spr_design_system_dark_large_default = "/assets/_assets/spr-design-system-dark-large-D2JRFU23.png";
 
 // app/assets/spr-design-system-dark-placeholder.png
-var spr_design_system_dark_placeholder_default = "/build/_assets/spr-design-system-dark-placeholder-DNWHJ7MV.png";
+var spr_design_system_dark_placeholder_default = "/assets/_assets/spr-design-system-dark-placeholder-DNWHJ7MV.png";
 
 // app/assets/spr-design-system-dark.png
-var spr_design_system_dark_default = "/build/_assets/spr-design-system-dark-U2ZIIHBH.png";
+var spr_design_system_dark_default = "/assets/_assets/spr-design-system-dark-U2ZIIHBH.png";
 
 // app/assets/spr-design-system-light-large.png
-var spr_design_system_light_large_default = "/build/_assets/spr-design-system-light-large-NV7JGHXV.png";
+var spr_design_system_light_large_default = "/assets/_assets/spr-design-system-light-large-NV7JGHXV.png";
 
 // app/assets/spr-design-system-light-placeholder.png
-var spr_design_system_light_placeholder_default = "/build/_assets/spr-design-system-light-placeholder-XBEH3ITW.png";
+var spr_design_system_light_placeholder_default = "/assets/_assets/spr-design-system-light-placeholder-XBEH3ITW.png";
 
 // app/assets/spr-design-system-light.png
-var spr_design_system_light_default = "/build/_assets/spr-design-system-light-4PLPOWM5.png";
+var spr_design_system_light_default = "/assets/_assets/spr-design-system-light-4PLPOWM5.png";
 
 // app/assets/spr-lesson-builder-dark-large.jpg
-var spr_lesson_builder_dark_large_default = "/build/_assets/spr-lesson-builder-dark-large-MH5MJ5XC.jpg";
+var spr_lesson_builder_dark_large_default = "/assets/_assets/spr-lesson-builder-dark-large-MH5MJ5XC.jpg";
 
 // app/assets/spr-lesson-builder-dark-placeholder.jpg
-var spr_lesson_builder_dark_placeholder_default = "/build/_assets/spr-lesson-builder-dark-placeholder-IRHUAAEP.jpg";
+var spr_lesson_builder_dark_placeholder_default = "/assets/_assets/spr-lesson-builder-dark-placeholder-IRHUAAEP.jpg";
 
 // app/assets/spr-lesson-builder-dark.jpg
-var spr_lesson_builder_dark_default = "/build/_assets/spr-lesson-builder-dark-UCRRJFYS.jpg";
+var spr_lesson_builder_dark_default = "/assets/_assets/spr-lesson-builder-dark-UCRRJFYS.jpg";
 
 // app/assets/spr-lesson-builder-light-large.jpg
-var spr_lesson_builder_light_large_default = "/build/_assets/spr-lesson-builder-light-large-TFBMPFXH.jpg";
+var spr_lesson_builder_light_large_default = "/assets/_assets/spr-lesson-builder-light-large-TFBMPFXH.jpg";
 
 // app/assets/spr-lesson-builder-light-placeholder.jpg
-var spr_lesson_builder_light_placeholder_default = "/build/_assets/spr-lesson-builder-light-placeholder-7YNZKLR4.jpg";
+var spr_lesson_builder_light_placeholder_default = "/assets/_assets/spr-lesson-builder-light-placeholder-7YNZKLR4.jpg";
 
 // app/assets/spr-lesson-builder-light.jpg
-var spr_lesson_builder_light_default = "/build/_assets/spr-lesson-builder-light-C6UQLSZR.jpg";
+var spr_lesson_builder_light_default = "/assets/_assets/spr-lesson-builder-light-C6UQLSZR.jpg";
 
 // app/assets/spr-motion-large.mp4
-var spr_motion_large_default = "/build/_assets/spr-motion-large-QBSBKF6L.mp4";
+var spr_motion_large_default = "/assets/_assets/spr-motion-large-QBSBKF6L.mp4";
 
 // app/assets/spr-motion-placeholder.jpg
-var spr_motion_placeholder_default = "/build/_assets/spr-motion-placeholder-CDNOSRUW.jpg";
+var spr_motion_placeholder_default = "/assets/_assets/spr-motion-placeholder-CDNOSRUW.jpg";
 
 // app/assets/spr-motion.mp4
-var spr_motion_default = "/build/_assets/spr-motion-SF7EH5GU.mp4";
+var spr_motion_default = "/assets/_assets/spr-motion-SF7EH5GU.mp4";
 
 // app/assets/spr-schema-1-dark-large.png
-var spr_schema_1_dark_large_default = "/build/_assets/spr-schema-1-dark-large-256M7WW4.png";
+var spr_schema_1_dark_large_default = "/assets/_assets/spr-schema-1-dark-large-256M7WW4.png";
 
 // app/assets/spr-schema-1-dark-placeholder.png
-var spr_schema_1_dark_placeholder_default = "/build/_assets/spr-schema-1-dark-placeholder-LM2WJKH7.png";
+var spr_schema_1_dark_placeholder_default = "/assets/_assets/spr-schema-1-dark-placeholder-LM2WJKH7.png";
 
 // app/assets/spr-schema-1-dark.png
-var spr_schema_1_dark_default = "/build/_assets/spr-schema-1-dark-YS6YMAMX.png";
+var spr_schema_1_dark_default = "/assets/_assets/spr-schema-1-dark-YS6YMAMX.png";
 
 // app/assets/spr-schema-1-light-large.png
-var spr_schema_1_light_large_default = "/build/_assets/spr-schema-1-light-large-DJN3H47S.png";
+var spr_schema_1_light_large_default = "/assets/_assets/spr-schema-1-light-large-DJN3H47S.png";
 
 // app/assets/spr-schema-1-light-placeholder.png
-var spr_schema_1_light_placeholder_default = "/build/_assets/spr-schema-1-light-placeholder-GFSPUDIT.png";
+var spr_schema_1_light_placeholder_default = "/assets/_assets/spr-schema-1-light-placeholder-GFSPUDIT.png";
 
 // app/assets/spr-schema-1-light.png
-var spr_schema_1_light_default = "/build/_assets/spr-schema-1-light-A5GLLMQB.png";
+var spr_schema_1_light_default = "/assets/_assets/spr-schema-1-light-A5GLLMQB.png";
 
 // app/assets/spr-schema-2-dark-large.png
-var spr_schema_2_dark_large_default = "/build/_assets/spr-schema-2-dark-large-MDWCXOKQ.png";
+var spr_schema_2_dark_large_default = "/assets/_assets/spr-schema-2-dark-large-MDWCXOKQ.png";
 
 // app/assets/spr-schema-2-dark-placeholder.png
-var spr_schema_2_dark_placeholder_default = "/build/_assets/spr-schema-2-dark-placeholder-56FH2CJC.png";
+var spr_schema_2_dark_placeholder_default = "/assets/_assets/spr-schema-2-dark-placeholder-56FH2CJC.png";
 
 // app/assets/spr-schema-2-dark.png
-var spr_schema_2_dark_default = "/build/_assets/spr-schema-2-dark-5J2MTTER.png";
+var spr_schema_2_dark_default = "/assets/_assets/spr-schema-2-dark-5J2MTTER.png";
 
 // app/assets/spr-schema-2-light-large.png
-var spr_schema_2_light_large_default = "/build/_assets/spr-schema-2-light-large-Z57LUZCT.png";
+var spr_schema_2_light_large_default = "/assets/_assets/spr-schema-2-light-large-Z57LUZCT.png";
 
 // app/assets/spr-schema-2-light-placeholder.png
-var spr_schema_2_light_placeholder_default = "/build/_assets/spr-schema-2-light-placeholder-OYWM46SA.png";
+var spr_schema_2_light_placeholder_default = "/assets/_assets/spr-schema-2-light-placeholder-OYWM46SA.png";
 
 // app/assets/spr-schema-2-light.png
-var spr_schema_2_light_default = "/build/_assets/spr-schema-2-light-LICHA5N3.png";
+var spr_schema_2_light_default = "/assets/_assets/spr-schema-2-light-LICHA5N3.png";
 
 // app/assets/spr-storyboarder-dark-large.png
-var spr_storyboarder_dark_large_default = "/build/_assets/spr-storyboarder-dark-large-L6UBKWVN.png";
+var spr_storyboarder_dark_large_default = "/assets/_assets/spr-storyboarder-dark-large-L6UBKWVN.png";
 
 // app/assets/spr-storyboarder-dark-placeholder.png
-var spr_storyboarder_dark_placeholder_default = "/build/_assets/spr-storyboarder-dark-placeholder-ZLHHZ3NT.png";
+var spr_storyboarder_dark_placeholder_default = "/assets/_assets/spr-storyboarder-dark-placeholder-ZLHHZ3NT.png";
 
 // app/assets/spr-storyboarder-dark.png
-var spr_storyboarder_dark_default = "/build/_assets/spr-storyboarder-dark-HCARTMMI.png";
+var spr_storyboarder_dark_default = "/assets/_assets/spr-storyboarder-dark-HCARTMMI.png";
 
 // app/assets/spr-storyboarder-light-large.png
-var spr_storyboarder_light_large_default = "/build/_assets/spr-storyboarder-light-large-C4COPX2S.png";
+var spr_storyboarder_light_large_default = "/assets/_assets/spr-storyboarder-light-large-C4COPX2S.png";
 
 // app/assets/spr-storyboarder-light-placeholder.png
-var spr_storyboarder_light_placeholder_default = "/build/_assets/spr-storyboarder-light-placeholder-AKUPAFE2.png";
+var spr_storyboarder_light_placeholder_default = "/assets/_assets/spr-storyboarder-light-placeholder-AKUPAFE2.png";
 
 // app/assets/spr-storyboarder-light.png
-var spr_storyboarder_light_default = "/build/_assets/spr-storyboarder-light-DVCBWF4F.png";
+var spr_storyboarder_light_default = "/assets/_assets/spr-storyboarder-light-DVCBWF4F.png";
 
 // app/components/segmented-control/segmented-control.jsx
 init_style();
@@ -4771,73 +4771,73 @@ __export(route_exports3, {
 });
 
 // app/assets/slice-annotation-large.png
-var slice_annotation_large_default = "/build/_assets/slice-annotation-large-LJQ3JEQU.png";
+var slice_annotation_large_default = "/assets/_assets/slice-annotation-large-LJQ3JEQU.png";
 
 // app/assets/slice-annotation-placeholder.png
-var slice_annotation_placeholder_default = "/build/_assets/slice-annotation-placeholder-UTVIR27F.png";
+var slice_annotation_placeholder_default = "/assets/_assets/slice-annotation-placeholder-UTVIR27F.png";
 
 // app/assets/slice-annotation.png
-var slice_annotation_default = "/build/_assets/slice-annotation-LMJ4SHTG.png";
+var slice_annotation_default = "/assets/_assets/slice-annotation-LMJ4SHTG.png";
 
 // app/assets/slice-app-large.jpg
-var slice_app_large_default = "/build/_assets/slice-app-large-SQA2X7QL.jpg";
+var slice_app_large_default = "/assets/_assets/slice-app-large-SQA2X7QL.jpg";
 
 // app/assets/slice-app-placeholder.jpg
-var slice_app_placeholder_default = "/build/_assets/slice-app-placeholder-5BEINETE.jpg";
+var slice_app_placeholder_default = "/assets/_assets/slice-app-placeholder-5BEINETE.jpg";
 
 // app/assets/slice-app.jpg
-var slice_app_default = "/build/_assets/slice-app-ZLTVDULD.jpg";
+var slice_app_default = "/assets/_assets/slice-app-ZLTVDULD.jpg";
 
 // app/assets/slice-background-bar-large.jpg
-var slice_background_bar_large_default = "/build/_assets/slice-background-bar-large-JM2XLI7V.jpg";
+var slice_background_bar_large_default = "/assets/_assets/slice-background-bar-large-JM2XLI7V.jpg";
 
 // app/assets/slice-background-bar-placeholder.jpg
-var slice_background_bar_placeholder_default = "/build/_assets/slice-background-bar-placeholder-CC6U754O.jpg";
+var slice_background_bar_placeholder_default = "/assets/_assets/slice-background-bar-placeholder-CC6U754O.jpg";
 
 // app/assets/slice-background-bar.jpg
-var slice_background_bar_default = "/build/_assets/slice-background-bar-HPSRTEPD.jpg";
+var slice_background_bar_default = "/assets/_assets/slice-background-bar-HPSRTEPD.jpg";
 
 // app/assets/slice-background-large.jpg
-var slice_background_large_default = "/build/_assets/slice-background-large-FXC34VWZ.jpg";
+var slice_background_large_default = "/assets/_assets/slice-background-large-FXC34VWZ.jpg";
 
 // app/assets/slice-background-placeholder.jpg
-var slice_background_placeholder_default = "/build/_assets/slice-background-placeholder-3JQ6HPDP.jpg";
+var slice_background_placeholder_default = "/assets/_assets/slice-background-placeholder-3JQ6HPDP.jpg";
 
 // app/assets/slice-background.jpg
-var slice_background_default = "/build/_assets/slice-background-3HDNKLRZ.jpg";
+var slice_background_default = "/assets/_assets/slice-background-3HDNKLRZ.jpg";
 
 // app/assets/slice-irl-placeholder.jpg
-var slice_irl_placeholder_default = "/build/_assets/slice-irl-placeholder-RFQ6HNVD.jpg";
+var slice_irl_placeholder_default = "/assets/_assets/slice-irl-placeholder-RFQ6HNVD.jpg";
 
 // app/assets/slice-irl.jpg
-var slice_irl_default = "/build/_assets/slice-irl-3T3HH7DN.jpg";
+var slice_irl_default = "/assets/_assets/slice-irl-3T3HH7DN.jpg";
 
 // app/assets/slice-sidebar-annotations-large.png
-var slice_sidebar_annotations_large_default = "/build/_assets/slice-sidebar-annotations-large-FTIP6NCQ.png";
+var slice_sidebar_annotations_large_default = "/assets/_assets/slice-sidebar-annotations-large-FTIP6NCQ.png";
 
 // app/assets/slice-sidebar-annotations-placeholder.png
-var slice_sidebar_annotations_placeholder_default = "/build/_assets/slice-sidebar-annotations-placeholder-YFXXAA2E.png";
+var slice_sidebar_annotations_placeholder_default = "/assets/_assets/slice-sidebar-annotations-placeholder-YFXXAA2E.png";
 
 // app/assets/slice-sidebar-annotations.png
-var slice_sidebar_annotations_default = "/build/_assets/slice-sidebar-annotations-5ITXTVIF.png";
+var slice_sidebar_annotations_default = "/assets/_assets/slice-sidebar-annotations-5ITXTVIF.png";
 
 // app/assets/slice-sidebar-layers-large.png
-var slice_sidebar_layers_large_default = "/build/_assets/slice-sidebar-layers-large-4GTTK7BF.png";
+var slice_sidebar_layers_large_default = "/assets/_assets/slice-sidebar-layers-large-4GTTK7BF.png";
 
 // app/assets/slice-sidebar-layers-placeholder.png
-var slice_sidebar_layers_placeholder_default = "/build/_assets/slice-sidebar-layers-placeholder-ROSLNJBM.png";
+var slice_sidebar_layers_placeholder_default = "/assets/_assets/slice-sidebar-layers-placeholder-ROSLNJBM.png";
 
 // app/assets/slice-sidebar-layers.png
-var slice_sidebar_layers_default = "/build/_assets/slice-sidebar-layers-7JQOI62D.png";
+var slice_sidebar_layers_default = "/assets/_assets/slice-sidebar-layers-7JQOI62D.png";
 
 // app/assets/slice-slides-large.jpg
-var slice_slides_large_default = "/build/_assets/slice-slides-large-ULMCGDSJ.jpg";
+var slice_slides_large_default = "/assets/_assets/slice-slides-large-ULMCGDSJ.jpg";
 
 // app/assets/slice-slides-placeholder.jpg
-var slice_slides_placeholder_default = "/build/_assets/slice-slides-placeholder-WF6KXRTC.jpg";
+var slice_slides_placeholder_default = "/assets/_assets/slice-slides-placeholder-WF6KXRTC.jpg";
 
 // app/assets/slice-slides.jpg
-var slice_slides_default = "/build/_assets/slice-slides-TKNQTCXE.jpg";
+var slice_slides_default = "/assets/_assets/slice-slides-TKNQTCXE.jpg";
 
 // app/routes/projects.slice/slice.jsx
 init_style();
@@ -5085,22 +5085,22 @@ __export(route_exports5, {
 });
 
 // app/assets/gamestack-list-large.jpg
-var gamestack_list_large_default = "/build/_assets/gamestack-list-large-HLKTAAY3.jpg";
+var gamestack_list_large_default = "/assets/_assets/gamestack-list-large-HLKTAAY3.jpg";
 
 // app/assets/gamestack-list-placeholder.jpg
-var gamestack_list_placeholder_default = "/build/_assets/gamestack-list-placeholder-N44KDLOZ.jpg";
+var gamestack_list_placeholder_default = "/assets/_assets/gamestack-list-placeholder-N44KDLOZ.jpg";
 
 // app/assets/gamestack-list.jpg
-var gamestack_list_default = "/build/_assets/gamestack-list-ILXDL3XB.jpg";
+var gamestack_list_default = "/assets/_assets/gamestack-list-ILXDL3XB.jpg";
 
 // app/assets/gamestack-login-large.jpg
-var gamestack_login_large_default = "/build/_assets/gamestack-login-large-46XCZRUN.jpg";
+var gamestack_login_large_default = "/assets/_assets/gamestack-login-large-46XCZRUN.jpg";
 
 // app/assets/gamestack-login-placeholder.jpg
-var gamestack_login_placeholder_default = "/build/_assets/gamestack-login-placeholder-5V67XEFL.jpg";
+var gamestack_login_placeholder_default = "/assets/_assets/gamestack-login-placeholder-5V67XEFL.jpg";
 
 // app/assets/gamestack-login.jpg
-var gamestack_login_default = "/build/_assets/gamestack-login-J33H7SGG.jpg";
+var gamestack_login_default = "/assets/_assets/gamestack-login-J33H7SGG.jpg";
 
 // app/routes/home/intro.jsx
 init_section2();
@@ -5255,13 +5255,13 @@ function Intro({ id, sectionRef, scrollIndicatorHidden, ...rest }) {
 }
 
 // app/assets/profile-large.jpg
-var profile_large_default = "/build/_assets/profile-large-TZQULEYR.jpg";
+var profile_large_default = "/assets/_assets/profile-large-TZQULEYR.jpg";
 
 // app/assets/profile-placeholder.jpg
-var profile_placeholder_default = "/build/_assets/profile-placeholder-KNKUW3WA.jpg";
+var profile_placeholder_default = "/assets/_assets/profile-placeholder-KNKUW3WA.jpg";
 
 // app/assets/profile.jpg
-var profile_default = "/build/_assets/profile-TZQULEYR.jpg";
+var profile_default = "/assets/_assets/profile-TZQULEYR.jpg";
 
 // app/components/divider/divider.jsx
 init_style();
@@ -5325,7 +5325,7 @@ init_transition2();
 import { Fragment as Fragment11, useState as useState14 } from "react";
 
 // app/routes/home/katakana.svg
-var katakana_default = "/build/_assets/katakana-FXSAGDO3.svg";
+var katakana_default = "/assets/_assets/katakana-FXSAGDO3.svg";
 
 // app/routes/home/profile.module.css
 var profile_module_default = { profile: "_7hNxv", content: "_9BsSW", column: "czfVX", title: "-QwOv", description: "gJPD-", tag: "VVKtL", tagText: "XHBZ3", image: "lOqP1", svg: "FWH9p", button: "_3eYJe" };
@@ -5722,10 +5722,10 @@ __export(route_exports6, {
 });
 
 // app/assets/uses-background-placeholder.jpg
-var uses_background_placeholder_default = "/build/_assets/uses-background-placeholder-FAJ4JRZS.jpg";
+var uses_background_placeholder_default = "/assets/_assets/uses-background-placeholder-FAJ4JRZS.jpg";
 
 // app/assets/uses-background.mp4
-var uses_background_default = "/build/_assets/uses-background-63TXPIYB.mp4";
+var uses_background_default = "/assets/_assets/uses-background-63TXPIYB.mp4";
 
 // app/components/list/list.jsx
 init_style();
@@ -5899,10 +5899,10 @@ function ErrorBoundary2() {
 }
 
 // server-assets-manifest:@remix-run/dev/assets-manifest
-var assets_manifest_default = { entry: { module: "/build/entry.client-ZJYVE67L.js", imports: ["/build/_shared/chunk-FYXKYMSZ.js", "/build/_shared/chunk-GDLBX7ER.js", "/build/_shared/chunk-Q3IECNXJ.js"] }, routes: { root: { id: "root", parentId: void 0, path: "", index: void 0, caseSensitive: void 0, module: "/build/root-B3CPI5KV.js", imports: ["/build/_shared/chunk-6BEUQKGE.js", "/build/_shared/chunk-W3W5I3HG.js", "/build/_shared/chunk-REIUXXTH.js", "/build/_shared/chunk-LE7JPKRK.js", "/build/_shared/chunk-G6GZU55D.js", "/build/_shared/chunk-G3JDKBL2.js", "/build/_shared/chunk-B6RM7DOY.js", "/build/_shared/chunk-VOOTN5NK.js", "/build/_shared/chunk-3JLJNTZK.js", "/build/_shared/chunk-HCC3DSPZ.js", "/build/_shared/chunk-CG2D626R.js"], hasAction: !1, hasLoader: !0, hasClientAction: !1, hasClientLoader: !1, hasErrorBoundary: !0 }, "routes/$": { id: "routes/$", parentId: "root", path: "*", index: void 0, caseSensitive: void 0, module: "/build/routes/$-GMQ4OJKN.js", imports: void 0, hasAction: !1, hasLoader: !0, hasClientAction: !1, hasClientLoader: !1, hasErrorBoundary: !0 }, "routes/api.set-theme": { id: "routes/api.set-theme", parentId: "root", path: "api/set-theme", index: void 0, caseSensitive: void 0, module: "/build/routes/api.set-theme-G5NM5GYH.js", imports: void 0, hasAction: !0, hasLoader: !1, hasClientAction: !1, hasClientLoader: !1, hasErrorBoundary: !1 }, "routes/articles.hello-world": { id: "routes/articles.hello-world", parentId: "root", path: "articles/hello-world", index: void 0, caseSensitive: void 0, module: "/build/routes/articles.hello-world-W6KGU5LU.js", imports: void 0, hasAction: !1, hasLoader: !1, hasClientAction: !1, hasClientLoader: !1, hasErrorBoundary: !1 }, "routes/articles.modern-styling-in-react": { id: "routes/articles.modern-styling-in-react", parentId: "root", path: "articles/modern-styling-in-react", index: void 0, caseSensitive: void 0, module: "/build/routes/articles.modern-styling-in-react-KNNKQOZW.js", imports: void 0, hasAction: !1, hasLoader: !1, hasClientAction: !1, hasClientLoader: !1, hasErrorBoundary: !1 }, "routes/contact": { id: "routes/contact", parentId: "root", path: "contact", index: void 0, caseSensitive: void 0, module: "/build/routes/contact-YZPNFDIA.js", imports: ["/build/_shared/chunk-J76AM4X6.js", "/build/_shared/chunk-RF4KE5FM.js"], hasAction: !1, hasLoader: !1, hasClientAction: !1, hasClientLoader: !1, hasErrorBoundary: !1 }, "routes/home": { id: "routes/home", parentId: "root", path: "home", index: void 0, caseSensitive: void 0, module: "/build/routes/home-Q5SHP6Q7.js", imports: ["/build/_shared/chunk-4W5RFXWF.js", "/build/_shared/chunk-4IYZFEF2.js", "/build/_shared/chunk-7YXCIBP7.js", "/build/_shared/chunk-7C2UPQ5S.js", "/build/_shared/chunk-J76AM4X6.js", "/build/_shared/chunk-RF4KE5FM.js", "/build/_shared/chunk-UFO47Q2A.js", "/build/_shared/chunk-DCJLI3GM.js"], hasAction: !1, hasLoader: !1, hasClientAction: !1, hasClientLoader: !1, hasErrorBoundary: !1 }, "routes/projects.slice": { id: "routes/projects.slice", parentId: "root", path: "projects/slice", index: void 0, caseSensitive: void 0, module: "/build/routes/projects.slice-JMPGKZR3.js", imports: ["/build/_shared/chunk-7YXCIBP7.js", "/build/_shared/chunk-EMVF5VG2.js", "/build/_shared/chunk-7C2UPQ5S.js", "/build/_shared/chunk-J76AM4X6.js", "/build/_shared/chunk-RF4KE5FM.js", "/build/_shared/chunk-UFO47Q2A.js", "/build/_shared/chunk-DCJLI3GM.js"], hasAction: !1, hasLoader: !1, hasClientAction: !1, hasClientLoader: !1, hasErrorBoundary: !1 }, "routes/projects.smart-sparrow": { id: "routes/projects.smart-sparrow", parentId: "root", path: "projects/smart-sparrow", index: void 0, caseSensitive: void 0, module: "/build/routes/projects.smart-sparrow-A2MEA3CY.js", imports: ["/build/_shared/chunk-4IYZFEF2.js", "/build/_shared/chunk-EMVF5VG2.js", "/build/_shared/chunk-7C2UPQ5S.js", "/build/_shared/chunk-J76AM4X6.js", "/build/_shared/chunk-RF4KE5FM.js", "/build/_shared/chunk-UFO47Q2A.js", "/build/_shared/chunk-DCJLI3GM.js"], hasAction: !1, hasLoader: !1, hasClientAction: !1, hasClientLoader: !1, hasErrorBoundary: !1 }, "routes/projects.volkihar-knight": { id: "routes/projects.volkihar-knight", parentId: "root", path: "projects/volkihar-knight", index: void 0, caseSensitive: void 0, module: "/build/routes/projects.volkihar-knight-5PZPQSMM.js", imports: ["/build/_shared/chunk-EMVF5VG2.js", "/build/_shared/chunk-7C2UPQ5S.js", "/build/_shared/chunk-J76AM4X6.js", "/build/_shared/chunk-RF4KE5FM.js", "/build/_shared/chunk-UFO47Q2A.js", "/build/_shared/chunk-DCJLI3GM.js"], hasAction: !1, hasLoader: !1, hasClientAction: !1, hasClientLoader: !1, hasErrorBoundary: !1 }, "routes/uses": { id: "routes/uses", parentId: "root", path: "uses", index: void 0, caseSensitive: void 0, module: "/build/routes/uses-GJITKM5H.js", imports: ["/build/_shared/chunk-EMVF5VG2.js", "/build/_shared/chunk-7C2UPQ5S.js", "/build/_shared/chunk-J76AM4X6.js", "/build/_shared/chunk-RF4KE5FM.js", "/build/_shared/chunk-UFO47Q2A.js", "/build/_shared/chunk-DCJLI3GM.js"], hasAction: !1, hasLoader: !1, hasClientAction: !1, hasClientLoader: !1, hasErrorBoundary: !1 } }, version: "8c053613", hmr: void 0, url: "/build/manifest-8C053613.js" };
+var assets_manifest_default = { entry: { module: "/assets/entry.client-ZAN7E22O.js", imports: ["/assets/_shared/chunk-AUSCXEMO.js", "/assets/_shared/chunk-ZSCARA4Z.js", "/assets/_shared/chunk-F3TRQT5X.js"] }, routes: { root: { id: "root", parentId: void 0, path: "", index: void 0, caseSensitive: void 0, module: "/assets/root-RGOIBRFO.js", imports: ["/assets/_shared/chunk-FN3R2IN2.js", "/assets/_shared/chunk-YXI7OKH7.js", "/assets/_shared/chunk-MBS577NP.js", "/assets/_shared/chunk-6HAZSQ7R.js", "/assets/_shared/chunk-W2QAQDNY.js", "/assets/_shared/chunk-IRHCYEBL.js", "/assets/_shared/chunk-A4JF4TEP.js", "/assets/_shared/chunk-JBPE35RY.js", "/assets/_shared/chunk-OAGHZG5J.js", "/assets/_shared/chunk-3GAHIIES.js", "/assets/_shared/chunk-F4ODTSJS.js"], hasAction: !1, hasLoader: !0, hasClientAction: !1, hasClientLoader: !1, hasErrorBoundary: !0 }, "routes/$": { id: "routes/$", parentId: "root", path: "*", index: void 0, caseSensitive: void 0, module: "/assets/routes/$-ZMABVCHT.js", imports: void 0, hasAction: !1, hasLoader: !0, hasClientAction: !1, hasClientLoader: !1, hasErrorBoundary: !0 }, "routes/api.set-theme": { id: "routes/api.set-theme", parentId: "root", path: "api/set-theme", index: void 0, caseSensitive: void 0, module: "/assets/routes/api.set-theme-W3XGDHSS.js", imports: void 0, hasAction: !0, hasLoader: !1, hasClientAction: !1, hasClientLoader: !1, hasErrorBoundary: !1 }, "routes/articles.hello-world": { id: "routes/articles.hello-world", parentId: "root", path: "articles/hello-world", index: void 0, caseSensitive: void 0, module: "/assets/routes/articles.hello-world-BSCPUVK2.js", imports: void 0, hasAction: !1, hasLoader: !1, hasClientAction: !1, hasClientLoader: !1, hasErrorBoundary: !1 }, "routes/articles.modern-styling-in-react": { id: "routes/articles.modern-styling-in-react", parentId: "root", path: "articles/modern-styling-in-react", index: void 0, caseSensitive: void 0, module: "/assets/routes/articles.modern-styling-in-react-FS6643FJ.js", imports: void 0, hasAction: !1, hasLoader: !1, hasClientAction: !1, hasClientLoader: !1, hasErrorBoundary: !1 }, "routes/contact": { id: "routes/contact", parentId: "root", path: "contact", index: void 0, caseSensitive: void 0, module: "/assets/routes/contact-KRALNKCA.js", imports: ["/assets/_shared/chunk-53HRJXKW.js", "/assets/_shared/chunk-PEYEMZWK.js"], hasAction: !1, hasLoader: !1, hasClientAction: !1, hasClientLoader: !1, hasErrorBoundary: !1 }, "routes/home": { id: "routes/home", parentId: "root", path: "home", index: void 0, caseSensitive: void 0, module: "/assets/routes/home-3I52S4CR.js", imports: ["/assets/_shared/chunk-CWG7RRNH.js", "/assets/_shared/chunk-J3AIXDIO.js", "/assets/_shared/chunk-MX2ERWFR.js", "/assets/_shared/chunk-L5P2ZKLM.js", "/assets/_shared/chunk-53HRJXKW.js", "/assets/_shared/chunk-PEYEMZWK.js", "/assets/_shared/chunk-JGEUZ5DB.js", "/assets/_shared/chunk-N6K2DFXZ.js"], hasAction: !1, hasLoader: !1, hasClientAction: !1, hasClientLoader: !1, hasErrorBoundary: !1 }, "routes/projects.slice": { id: "routes/projects.slice", parentId: "root", path: "projects/slice", index: void 0, caseSensitive: void 0, module: "/assets/routes/projects.slice-IBMWEBNU.js", imports: ["/assets/_shared/chunk-MX2ERWFR.js", "/assets/_shared/chunk-H5BSISL5.js", "/assets/_shared/chunk-L5P2ZKLM.js", "/assets/_shared/chunk-53HRJXKW.js", "/assets/_shared/chunk-PEYEMZWK.js", "/assets/_shared/chunk-JGEUZ5DB.js", "/assets/_shared/chunk-N6K2DFXZ.js"], hasAction: !1, hasLoader: !1, hasClientAction: !1, hasClientLoader: !1, hasErrorBoundary: !1 }, "routes/projects.smart-sparrow": { id: "routes/projects.smart-sparrow", parentId: "root", path: "projects/smart-sparrow", index: void 0, caseSensitive: void 0, module: "/assets/routes/projects.smart-sparrow-WRIYYHJO.js", imports: ["/assets/_shared/chunk-J3AIXDIO.js", "/assets/_shared/chunk-H5BSISL5.js", "/assets/_shared/chunk-L5P2ZKLM.js", "/assets/_shared/chunk-53HRJXKW.js", "/assets/_shared/chunk-PEYEMZWK.js", "/assets/_shared/chunk-JGEUZ5DB.js", "/assets/_shared/chunk-N6K2DFXZ.js"], hasAction: !1, hasLoader: !1, hasClientAction: !1, hasClientLoader: !1, hasErrorBoundary: !1 }, "routes/projects.volkihar-knight": { id: "routes/projects.volkihar-knight", parentId: "root", path: "projects/volkihar-knight", index: void 0, caseSensitive: void 0, module: "/assets/routes/projects.volkihar-knight-6OESLTJE.js", imports: ["/assets/_shared/chunk-H5BSISL5.js", "/assets/_shared/chunk-L5P2ZKLM.js", "/assets/_shared/chunk-53HRJXKW.js", "/assets/_shared/chunk-PEYEMZWK.js", "/assets/_shared/chunk-JGEUZ5DB.js", "/assets/_shared/chunk-N6K2DFXZ.js"], hasAction: !1, hasLoader: !1, hasClientAction: !1, hasClientLoader: !1, hasErrorBoundary: !1 }, "routes/uses": { id: "routes/uses", parentId: "root", path: "uses", index: void 0, caseSensitive: void 0, module: "/assets/routes/uses-KZCBMDST.js", imports: ["/assets/_shared/chunk-H5BSISL5.js", "/assets/_shared/chunk-L5P2ZKLM.js", "/assets/_shared/chunk-53HRJXKW.js", "/assets/_shared/chunk-PEYEMZWK.js", "/assets/_shared/chunk-JGEUZ5DB.js", "/assets/_shared/chunk-N6K2DFXZ.js"], hasAction: !1, hasLoader: !1, hasClientAction: !1, hasClientLoader: !1, hasErrorBoundary: !1 } }, version: "0ae0635b", hmr: void 0, url: "/assets/manifest-0AE0635B.js" };
 
 // server-entry-module:@remix-run/dev/server-build
-var mode = "production", assetsBuildDirectory = "build/client", future = { v3_fetcherPersist: !1, v3_relativeSplatPath: !1, v3_throwAbortReason: !1 }, publicPath = "/build/", entry = { module: entry_server_cloudflare_exports }, routes = {
+var mode = "production", assetsBuildDirectory = "build/client/assets", future = { v3_fetcherPersist: !1, v3_relativeSplatPath: !1, v3_throwAbortReason: !1 }, publicPath = "/assets/", entry = { module: entry_server_cloudflare_exports }, routes = {
   root: {
     id: "root",
     parentId: void 0,

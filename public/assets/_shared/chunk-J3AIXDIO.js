@@ -1,0 +1,1 @@
+var R="/assets/_assets/spr-lesson-builder-dark-large-MH5MJ5XC.jpg";var T="/assets/_assets/spr-lesson-builder-dark-placeholder-IRHUAAEP.jpg";var Z="/assets/_assets/spr-lesson-builder-dark-UCRRJFYS.jpg";export{R as a,T as b,Z as c};
