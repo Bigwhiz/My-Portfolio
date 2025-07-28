@@ -1,4 +1,8 @@
-# Only needed if you're using wrangler CLI for Pages deploy
 name = "my-portfolio"
-pages_build_output_dir = "./build/client"
-compatibility_date = "2024-07-28"
+compatibility_date = "2024-07-27"
+
+[build]
+command = "npm run build"
+cwd = "."
+watch_dir = "."
+upload_dir = "./build/client"
