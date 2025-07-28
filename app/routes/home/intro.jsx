@@ -15,9 +15,7 @@ import styles from './intro.module.css';
 import Lottie from 'lottie-react';
 import animationData from '~/assets/hero-animation.json';
 
-const DisplacementSphere = lazy(() =>
-  import('./displacement-sphere').then(module => ({ default: module.DisplacementSphere }))
-);
+
 
 export function Intro({ id, sectionRef, scrollIndicatorHidden, ...rest }) {
   const { theme } = useTheme();
