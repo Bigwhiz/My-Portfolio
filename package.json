@@ -7,7 +7,8 @@
   "sideEffects": false,
   "type": "module",
   "scripts": {
-    "build": "remix build && mkdir -p functions && cp build/server/index.js functions/[[path]].js",
+      "build": "remix build",
+      "postbuild": "cp -r build/client/* public/",
     "start": "wrangler pages dev ./build/client",
     "postinstall": "node ./scripts/draco.cjs",
     "deploy": "npm run build && wrangler pages deploy ./build/client --project-name portfolio",
